@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1731196122 source:c:\users\bruno\desktop\computaci”n gr¡fica y visual\ejercicios 1\ti_personaje\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1732769957 source:c:\users\bruno\desktop\computaci”n gr¡fica y visual\t1 - bruno salazar\ti_personaje\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1732833057 source:c:\users\bsalazar\desktop\ti_personaje\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1732858650 source:c:\users\bruno\desktop\computaci”n gr¡fica y visual\final_animacion\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
